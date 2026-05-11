@@ -78,14 +78,6 @@ loadstring(game:HttpGet("https://lua.krossx.workers.dev/raw/prod/loader.lua"))()
 
 </div>
 
-<!-- ───────────────────────────  SNAKE  ─────────────────────────── -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xHIM/0xHIM/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xHIM/0xHIM/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/0xHIM/0xHIM/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
 <!-- ───────────────────────────  FOOTER  ─────────────────────────── -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a96e,50:1a1a1a,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
